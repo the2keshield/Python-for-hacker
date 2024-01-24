@@ -1,0 +1,16 @@
+Coucou 👋 
+
+Pour exécuter le code il suffit dans le terminal de votre logiciel (VS Code ou Pycharm (Je préfères)) et de faire comme suit :
+
+
+*Generer un mot de passe MD5 : python "Nom du fichier".py -g "Le mot qu'on souhaite générer"
+
+*Faire le crackage : python "Nom du fichier".py -md5 "Le mot de passe générer précédemment" -f  "Le lien du dictionnaire dans explorer"
+
+
+Il arrive que le mot de passe qu'on essais de cracker soit introuvable.
+Oui, c'est du au faite que ce mot ne se trouve pas dans notre mini dictionnaire.
+
+N'oubliez pas le mini dictionnaire se trouve dans le premier projet...
+
+Fumez moi ca les gars 🔥 	
